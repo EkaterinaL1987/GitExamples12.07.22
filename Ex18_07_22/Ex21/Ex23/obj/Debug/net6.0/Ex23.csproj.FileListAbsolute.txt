@@ -1,0 +1,15 @@
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\bin\Debug\net6.0\Ex23.exe
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\bin\Debug\net6.0\Ex23.deps.json
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\bin\Debug\net6.0\Ex23.runtimeconfig.json
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\bin\Debug\net6.0\Ex23.dll
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\bin\Debug\net6.0\Ex23.pdb
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.csproj.AssemblyReference.cache
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.AssemblyInfoInputs.cache
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.AssemblyInfo.cs
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.csproj.CoreCompileInputs.cache
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.dll
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\refint\Ex23.dll
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.pdb
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\Ex23.genruntimeconfig.cache
+D:\Мои файлы\Git13072022\Ex18_07_22\Ex21\Ex23\obj\Debug\net6.0\ref\Ex23.dll
